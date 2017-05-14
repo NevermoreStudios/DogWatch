@@ -1,0 +1,54 @@
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\MATHACK.exe.config
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\MATHACK.exe
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\MATHACK.pdb
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\obj\Debug\MATHACK.csprojResolveAssemblyReference.cache
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\obj\Debug\MATHACK.Form1.resources
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\obj\Debug\MATHACK.Properties.Resources.resources
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\obj\Debug\MATHACK.csproj.GenerateResource.Cache
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\obj\Debug\MATHACK.exe
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\obj\Debug\MATHACK.pdb
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\Newtonsoft.Json.dll
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\Twilio.dll
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\Newtonsoft.Json.xml
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\lazar\documents\visual studio 2017\Projects\MATHACK\MATHACK\bin\Debug\Twilio.xml
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\MATHACK.exe.config
+C:\Users\Pera\Github\DogwatchReader\MATHACK\obj\Debug\MATHACK.exe
+C:\Users\Pera\Github\DogwatchReader\MATHACK\obj\Debug\MATHACK.pdb
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\MATHACK.exe
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\MATHACK.pdb
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\Twilio.dll
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Pera\Github\DogwatchReader\MATHACK\bin\Debug\Twilio.xml
+C:\Users\Pera\Github\DogwatchReader\MATHACK\obj\Debug\MATHACK.csprojResolveAssemblyReference.cache
+C:\Users\Pera\Github\DogwatchReader\MATHACK\obj\Debug\MATHACK.Form1.resources
+C:\Users\Pera\Github\DogwatchReader\MATHACK\obj\Debug\MATHACK.Properties.Resources.resources
+C:\Users\Pera\Github\DogwatchReader\MATHACK\obj\Debug\MATHACK.csproj.GenerateResource.Cache
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\MATHACK.exe.config
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\obj\Debug\MATHACK.exe
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\obj\Debug\MATHACK.pdb
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\MATHACK.exe
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\MATHACK.pdb
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\Twilio.dll
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\bin\Debug\Twilio.xml
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\obj\Debug\MATHACK.csprojResolveAssemblyReference.cache
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\obj\Debug\MATHACK.Form1.resources
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\obj\Debug\MATHACK.Properties.Resources.resources
+C:\Users\Pera\Main\Desktop\math\Recollection\reader\MATHACK\obj\Debug\MATHACK.csproj.GenerateResource.Cache
